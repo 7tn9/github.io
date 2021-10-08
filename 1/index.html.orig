@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsenui.css">
     <link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsen-css-components.min.css">
     <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet"> <!-- خط اللغه العربيه من جوجل -->
-    <link rel="icon" type="image/ico" href="app/lcon/1.png"> <!-- ايقونه الموقع -->
+    <link rel="icon" type="image/ico" href="http://ipa-appel.site/app/lcon/1.png"> <!-- ايقونه الموقع -->
     <link href="css/boot-css.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet"> <!-- ستايل الموقع -->
     <title> عبدالله بلس </title> <!-- اسم الموقع -->
@@ -95,7 +95,7 @@
 <ul class="list-group">
   <li class="list-group-item">
     <span class="icon"> <img src="img/support.png"> </span>
-    <span class="badge"><a href="https://ipa-appel.site/support@ipa-appel.site"> اضغط هنا </a></span>
+    <span class="badge"><a href="support@ipa-appel.site"> اضغط هنا </a></span>
     تواصل مع الدعم <br>
    support@ipa-appel.site	
   </li>
@@ -198,7 +198,8 @@
   </li>
 <ul class="list-group">
   <li class="list-group-item">
-    <span class="icon"> <img src="img/ASDFileManag.png"> </span>
+    <span class="icon"> <img src="img/ASDFileManag.png
+"> </span>
     <span class="badge"><a href="https://is.gd/t3uyH5"> Download </a></span>
     <p> Drslayer  </p>
     لازم تنزل البرنامج هذا حتا تتمكن من تشغيل برنامج الافلام 
